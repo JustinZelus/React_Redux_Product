@@ -1,2 +1,3 @@
-# React_Redux_Todo
-Todo Application combine react &amp; redux
+# React_Redux_Product
+
+Product Application combine react &amp; redux
