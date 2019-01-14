@@ -1,12 +1,11 @@
 import React from "react";
-import ProductList from "./ProductList";
-import SearchBar from "../containers/SearchBar";
+import VisibleProductList from "../containers/VisibleProductList";
+import Header from "./Header";
 
 const App = ({ products }) => (
   <div>
-    <SearchBar />
-
-    <ProductList products={products} />
+    <Header />
+    <VisibleProductList products={products} />
   </div>
 );
 
