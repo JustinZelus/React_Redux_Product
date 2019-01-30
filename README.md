@@ -1,5 +1,8 @@
 # React_Redux_Product
 
+&nbsp;
+<img src="https://github.com/JustinZelus/React_Redux_Todo/blob/master/draw_boxes_product.PNG"/>
+
 **Product Application**
 
 - combine react &amp; redux
