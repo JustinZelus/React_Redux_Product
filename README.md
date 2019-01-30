@@ -1,7 +1,7 @@
 # React_Redux_Product
 
 &nbsp;
-<img src="https://github.com/JustinZelus/React_Redux_Todo/blob/master/draw_boxes_product.PNG"/>
+<img src="https://github.com/JustinZelus/React_Redux_Product/blob/master/draw_boxes_product.png"/>
 
 **Product Application**
 
